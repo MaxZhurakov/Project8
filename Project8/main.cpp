@@ -30,7 +30,7 @@ int main()
     system("pause");
     return 0;
 }
-//HM_ex_3_26.03.2023 
+//HM_ex_3_26.03.2023_
 #include <locale>
 #include <stdio.h>
 int main()
